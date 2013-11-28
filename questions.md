@@ -23,7 +23,7 @@ link is dead.
 saved by the app on the user's machine.
     MAY USE: Javascript (probably required)
     OPEN QUESTSIONS:
-    - How do we go about reading that file (location only?)
+[Chirag]    - How do we go about reading that file (location only?)
        from  disk with JS given browser's security about disk read operations?
     - Will we need to save the file's location in the DOM? Or a JS variable?
 
