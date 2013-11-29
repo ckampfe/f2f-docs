@@ -3,7 +3,13 @@ f2f-docs
 
 resources and production docs for webrtc final project
 
-Quickbits Trello Board:
+Requirements Document:<br>
+https://docs.google.com/document/d/1chIJVLwLseHWFGlxzS3_DJrxrQlIVOJ0gI9b5SD997A/edit
+
+Q and A Document:<br>
+https://docs.google.com/spreadsheet/ccc?key=0ArOkJLJlC_o-dDJxMVMtYVJoRUNSSUhTNk5HTkx1N0E&usp=sharing#gid=0
+
+Quickbits Trello Board:<br>
 https://trello.com/b/hEj9oKi5/quickbits
 
 ShareFest- Similar Project
