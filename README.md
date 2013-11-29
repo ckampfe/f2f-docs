@@ -3,6 +3,9 @@ f2f-docs
 
 resources and production docs for webrtc final project
 
+Quickbits Trello Board:
+https://trello.com/b/hEj9oKi5/quickbits
+
 ShareFest- Similar Project
 https://www.sharefest.me/
 Their github: https://github.com/Peer5/Sharefest
