@@ -24,3 +24,6 @@ https://www.youtube.com/watch?v=p2HzZkd2A40
 
 HTML5 Conference Introducing WebRTC apps
 http://www.youtube.com/watch?v=3Ifbqaw5l_I
+
+Insights on file slicing and transfer from the creator of Sharefest
+http://bloggeek.me/send-file-webrtc-data-api/
