@@ -6,27 +6,19 @@ https://github.com/Surram/quickbits
 
 resources and production docs for webrtc final project
 
-Requirements Document:<br>
-https://docs.google.com/document/d/1chIJVLwLseHWFGlxzS3_DJrxrQlIVOJ0gI9b5SD997A/edit
+[Requirements Document](https://docs.google.com/document/d/1chIJVLwLseHWFGlxzS3_DJrxrQlIVOJ0gI9b5SD997A/edit)
 
-Q and A Document:<br>
-https://docs.google.com/spreadsheet/ccc?key=0ArOkJLJlC_o-dDJxMVMtYVJoRUNSSUhTNk5HTkx1N0E&usp=sharing#gid=0
+[Q and A Document](https://docs.google.com/spreadsheet/ccc?key=0ArOkJLJlC_o-dDJxMVMtYVJoRUNSSUhTNk5HTkx1N0E&usp=sharing#gid=0)
 
-Quickbits Trello Board:<br>
-https://trello.com/b/hEj9oKi5/quickbits
+[Quickbits Trello Board](https://trello.com/b/hEj9oKi5/quickbits)
 
-ShareFest- Similar Project
-https://www.sharefest.me/
-Their github: https://github.com/Peer5/Sharefest
+[ShareFest- Similar Project](https://www.sharefest.me/)
+[Their github](https://github.com/Peer5/Sharefest)
 
-Google I/O 2013 WebRTC Talk
-https://www.youtube.com/watch?v=p2HzZkd2A40
+[Google I/O 2013 WebRTC Talk](https://www.youtube.com/watch?v=p2HzZkd2A40)
 
-HTML5 Conference Introducing WebRTC apps
-http://www.youtube.com/watch?v=3Ifbqaw5l_I
+[HTML5 Conference Introducing WebRTC apps](http://www.youtube.com/watch?v=3Ifbqaw5l_I)
 
-Insights on file slicing and transfer from the creator of Sharefest
-http://bloggeek.me/send-file-webrtc-data-api/
+[Insights on file slicing and transfer from the creator of Sharefest](http://bloggeek.me/send-file-webrtc-data-api/)
 
-Blob object
-https://developer.mozilla.org/en-US/docs/Web/API/Blob
+[Blob object](https://developer.mozilla.org/en-US/docs/Web/API/Blob)
