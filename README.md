@@ -4,7 +4,7 @@ f2f-docs
 ## Main QuickBits Code Repo:
 https://github.com/Surram/quickbits
 
-resources and production docs for webrtc final project
+### Resources and production docs for webrtc final project
 
 [Requirements Document](https://docs.google.com/document/d/1chIJVLwLseHWFGlxzS3_DJrxrQlIVOJ0gI9b5SD997A/edit)
 
