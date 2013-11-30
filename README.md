@@ -27,3 +27,6 @@ http://www.youtube.com/watch?v=3Ifbqaw5l_I
 
 Insights on file slicing and transfer from the creator of Sharefest
 http://bloggeek.me/send-file-webrtc-data-api/
+
+Blob object
+https://developer.mozilla.org/en-US/docs/Web/API/Blob
