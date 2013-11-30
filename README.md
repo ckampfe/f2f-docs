@@ -24,3 +24,5 @@ https://github.com/Surram/quickbits
 [Blob object](https://developer.mozilla.org/en-US/docs/Web/API/Blob)
 
 [MDN File API stuff](https://developer.mozilla.org/en-US/docs/Using_files_from_web_applications)
+
+[HTML5 Rocks reading local files with JavaScript, slicing](http://www.html5rocks.com/en/tutorials/file/dndfiles/#toc-slicing-files)
