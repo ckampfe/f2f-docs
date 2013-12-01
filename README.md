@@ -26,3 +26,5 @@ https://github.com/Surram/quickbits
 [MDN File API stuff](https://developer.mozilla.org/en-US/docs/Using_files_from_web_applications)
 
 [HTML5 Rocks reading local files with JavaScript, slicing](http://www.html5rocks.com/en/tutorials/file/dndfiles/#toc-slicing-files)
+
+[The history of WebRTC at Google](http://www.quora.com/WebRTC/What-was-the-history-of-WebRTC-inside-Google-before-it-was-released-to-the-public)
